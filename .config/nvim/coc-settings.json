@@ -1,0 +1,21 @@
+{
+    "suggest.noselect": false,
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 4,
+    "coc.preferences.formatOnSaveFiletypes": [
+        "javascript",
+        "typescript",
+        "typescriptreact",
+        "json",
+        "typescript.tsx",
+        "php",
+        "html",
+        "java",
+        "vue",
+        "css",
+        "scss",
+        "graphql"
+    ],
+    "clangd.path": "/home/kevin/.config/coc/extensions/coc-clangd-data/install/11.0.0/clangd_11.0.0/bin/clangd",
+    "clangd.enabled": true
+}
